@@ -13,7 +13,7 @@ Este repositório foi criado para organizar e publicar:
 
 ## Status
 
-- Primeira atividade: concluída.
+- Primeira atividade: concluída. 02/02/2026
 
 ## Objetivo do repositório
 
